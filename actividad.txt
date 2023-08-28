@@ -1,0 +1,15 @@
+-Por que un lenguaje de progrmacion solo puede utilizarse en algunos sistemas operativos y en otros no?
+
+Esto es asi ya que los diferentes lenguajes de programacion tienen limitaciones de compatibilidad la cual se debe a las diferentes implementaciones que tienen los diferentes sistemas operativos.
+
+-Que tipo de maquina virtual soporta VirtualBox?
+
+VirtualBox soporta maquinas virtuales de Linux (es decir, Ubuntu y Debian), Windows, Solaris, macOS y FreeBSD.
+
+-Que funcion cumple el hypervisor en la virtualizacion?
+
+Este es un software que cumple con la funcion de ejecutar maquinas virtuales, a su vez es el que se encarga de aislar las maquinas virtuales del sistema operativo y brindarles los recursos a la misma para su funcionamiento. 
+
+-Si tengo mas de una maquqina virtual instalada, y una se rompe, esto afecta a las demas? porque?
+
+No, ya que las maquinas virtuales son independientes entre si, si una maquina virtual se rompe esto no afectara a las demas ni a el sistema operativo.
